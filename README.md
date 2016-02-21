@@ -7,4 +7,4 @@ test.
 google www.google.com/ncr
 modifying from local.
 from dev branch.
-commit chongtu
+commit conflict.
