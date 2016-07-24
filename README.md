@@ -1,5 +1,5 @@
 ### emacs backup
-*in progress..*
+*in progress..*<br/>
 my prelude settings
 based on [bbatsov/prelude](https://github.com/bbatsov/prelude)
 put cedet-projects.el, custom.el into personal folder.
